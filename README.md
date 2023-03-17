@@ -2,3 +2,5 @@
 # **Disclaimer**
 
 This notebook is  just a practice and review notebook for myself after watching [Mr. P Solver](https://www.youtube.com/@MrPSolver) channel on YouTube.
+
+I hope that my markdown will make it easy to read the notebook.
