@@ -1,2 +1,4 @@
 # Python_For_Engineers
-This is the Python Notebook Practice for Engineers. 
+# **Disclaimer**
+
+This notebook is  just a practice and review notebook for myself after watching [Mr. P Solver](https://www.youtube.com/@MrPSolver) channel on YouTube.
