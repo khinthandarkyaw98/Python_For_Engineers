@@ -10,6 +10,7 @@ You can also check [Mr. P Solver's notebook](https://github.com/lukepolson/youtu
 <strong>This repository is still in progress.</strong> 
 
 Learning Path
+
 Studying the followings in order will benefit you. 
 | No.  | Topic |
 | ------------- | ------------- |
