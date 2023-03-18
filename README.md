@@ -1,7 +1,7 @@
 # Python_For_Engineers
 # **Disclaimer**
 
-This notebook is  just a practice and review notebook which I wrote for myself while watching [Mr. P Solver](https://www.youtube.com/@MrPSolver) channel on YouTube.
+This notebook is  just a practice and review notebook which I wrote down for myself while watching [Mr. P Solver](https://www.youtube.com/@MrPSolver) channel on YouTube.
 
 I hope that my markdown will make it easy to read the notebook.
 
