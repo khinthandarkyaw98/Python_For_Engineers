@@ -16,5 +16,6 @@ Additionally, you may peruse the notebook compiled by [Mr. P Solver](https://git
 To optimize your learning experience, it is recommended to study the following topics in sequence.
 | No.  | Topic |
 | ------------- | ------------- |
-| 1.  | [Python For Engineers](https://github.com/khinthandarkyaw98/Python_For_Engineers/blob/main/Python_Basic_Practice_for_Engineers.ipynb)  |
+| 1.  | [Python for Engineers](https://github.com/khinthandarkyaw98/Python_For_Engineers/blob/main/Python_Basic_Practice_for_Engineers.ipynb)  |
+| 2.  | [Numpy for Engineers](https://github.com/khinthandarkyaw98/Python_For_Engineers/blob/main/Numpy_for_Engineers.ipynb)|
 
