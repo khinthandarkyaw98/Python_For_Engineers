@@ -5,7 +5,7 @@ This particular notebook serves purely as a means of practicing and reviewing fo
 
 It is my aspiration that the formatting Markdown I have employed will facilitate the legibility of the notebook.
 
-Additionally, you may peruse the notebook compiled by [Mr. P Solver'](https://github.com/lukepolson/youtube_channel).
+Additionally, you may peruse the notebook compiled by [Mr. P Solver](https://github.com/lukepolson/youtube_channel).
 
 <strong>It should be noted that this repository is currently a work in progress and remains incomplete.</strong> 
 
