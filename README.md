@@ -1,15 +1,17 @@
 # Python_For_Engineers
 # **Disclaimer**
 
-This notebook is  just a practice and review notebook which I wrote down for myself while watching [Mr. P Solver](https://www.youtube.com/@MrPSolver) channel on YouTube.
+This particular notebook serves purely as a means of practicing and reviewing for myself, and I have documented its contents while watching instructional videos on [Mr. P Solver](https://www.youtube.com/@MrPSolver)'s YouTube channel.
 
 It is my aspiration that the formatting Markdown I have employed will facilitate the legibility of the notebook.
 
-You can also check [Mr. P Solver's notebook](https://github.com/lukepolson/youtube_channel).
+Additionally, you may peruse the notebook compiled by [Mr. P Solver'](https://github.com/lukepolson/youtube_channel).
 
-<strong>This repository is still in progress.</strong> 
+<strong>It should be noted that this repository is currently a work in progress and remains incomplete.</strong> 
 
-Learning Path
+<h1>Learning Path<\h1>
+  
+<hr>
 
 To optimize your learning experience, it is recommended to study the following topics in sequence.
 | No.  | Topic |
