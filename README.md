@@ -9,7 +9,7 @@ Additionally, you may peruse the notebook compiled by [Mr. P Solver'](https://gi
 
 <strong>It should be noted that this repository is currently a work in progress and remains incomplete.</strong> 
 
-<h1>Learning Path<\h1>
+<h1>Learning Path</h1>
   
 <hr>
 
